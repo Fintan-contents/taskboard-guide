@@ -1,4 +1,4 @@
-# Task board operation guide
+# Taskboard guide
 
 # 1. About this document
 
