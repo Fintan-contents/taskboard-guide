@@ -12,7 +12,7 @@ This document is a guide on how to quickly introduce and effectively use a task 
 
 ## 1.1. Purpose
 This document has two purposes:
-* **To enable a task board to be introduced quickly in Scrum development**
+* **To enable a task board to be introduced quickly in Scrum team**
 * **To enable effective use of the task board to improve the efficiency of the team’s work**
 
 
@@ -78,16 +78,16 @@ Below is an explanation of how to use a task board.
 When each of the tasks arranged on the board is completed, remove or mark the sticky note to indicate that the task is completed.  
 This makes it easy for team members to see the status of their and their team members’ tasks (not done, doing, done, etc.).
 
-### 2.2.2. If you find that there are too many or too few tasks in a sprint
+### 2.2.2. If you find that tasks are insufficient
 
 If you find that the tasks on the board do not cover all of the work that needs to be done,   
 add tasks that are needed or review how each task is assigned.
 
-The same principle applies if there are tasks that do not need to be done and the team is doing different work from the tasks arranged on the board. Remove unnecessary tasks and perform another estimate for the man-hours that are now blank.
+The same principle applies if there are tasks that do not need to be done or the team is doing different work from the tasks arranged on the board. Remove unnecessary tasks and perform another estimate for the man-hours that are now blank.
 
 ### 2.2.3. Daily scrums
 
-In each daily scrum, the team reports on the tasks they did the day before and the tasks they will do in the day ahead.
+In each daily scrum, the team will report on the tasks performed yesterday and the tasks planned to perform today.
 
 If any tasks are being delayed or done early, this needs to be reported on too.  
 If a task is delayed, they should explain to the development team about when they will be able to catch up.
@@ -145,7 +145,7 @@ Pay attention to double work and inefficient allocation of work.
 > Do not focus only on finishing your own tasks. Approach this with the intention to confirm whether your own work and that of the rest of the team is being allocated in a viable way.
 
 * **Write your tasks in a way that is clear to the whole of the team**  
-Write your tasks in a way that enables third parties to see at a glance what needs to be done.  
+Write the task content so that anyone can understand it at a glance.  
 This also improves transparency in the reports given at daily scrums.
 
 * **Pay attention to the security of the task board**  
